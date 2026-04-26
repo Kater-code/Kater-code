@@ -34,7 +34,7 @@ Stack: Mistral 7B · QLoRA fine-tuning · RAG (ChromaDB) · FastAPI · Streamlit
 | Project | What it does | Stack |
 |---|---|---|
 | [ea-ai-assistant](https://github.com/Kater-code/ea-ai-assistant) | On-premise LLM assistant for Enterprise Architecture | Mistral 7B · RAG · FastAPI · Docker |
-| [botAI](https://github.com/Kater-code/botAI) | Telegram bot with GPT integration & subscription system | Python · vkbottle · OpenAI API |
+| [botAI](https://github.com/Kater-code/botAI) | Telegram bot with GPT integration & subscription system | Python · SQLite · OpenAI API |
 
 ---
 
