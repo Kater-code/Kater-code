@@ -1,49 +1,52 @@
 # Hi, I'm Ekaterina 👋
 
-**Junior AI/ML Engineer** · Building on-premise LLM tools for regulated industries · Prague 🇨🇿
+**AI Business Analyst** · I turn business problems into working AI & automation solutions · Prague 🇨🇿
 
 ---
 
-### 🔨 What I'm building
+I work where business meets technology: gathering requirements, mapping processes, and designing automation that removes real bottlenecks. Business first, code second. I studied business economics before switching to Informatics, so I look at every project through the lens of the problem it solves, not just the tools it uses.
 
-**[EA AI Assistant](https://github.com/Kater-code/ea-ai-assistant)** — my bachelor's thesis @ CZU Prague, and a real B2B MVP.  
-An on-premise AI assistant for Enterprise Architects in banks, insurance, and government.  
-Why on-premise? GDPR + data sovereignty laws block cloud AI in regulated industries — this solves that.
-
-```
-Stack: Mistral 7B · QLoRA fine-tuning · RAG (ChromaDB) · FastAPI · Streamlit · Docker
-```
+Currently finishing my BSc in Informatics at CZU Prague and looking for a Business Analyst / AI & automation role, ideally in banking or fintech.
 
 ---
 
-### 🧠 Skills
+### 🔨 Selected projects
 
-**ML / AI**  
-`Python` `PyTorch` `Hugging Face` `LangChain` `RAG` `fine-tuning` `prompt engineering` `ChromaDB`
+**[VK Sales-Funnel Bot](https://github.com/Kater-code/vk-sales-bot)** — AI lead-generation bot for a B2B service business
+Greets visitors, answers questions with an LLM, qualifies leads through a guided form, and delivers each lead to the owner in real time. Turns lost inquiries into actionable requests.
+`Python · Mistral AI · vkbottle · FSM`
 
-**Backend & Infra**  
-`FastAPI` `Docker` `Linux` `Git` `REST API`
+**[Job Intelligence Pipeline](https://github.com/Kater-code/job-intelligence-pipeline)** — automated job-monitoring system
+Monitors job boards via API, scores each listing against defined criteria using an LLM, and delivers a daily filtered digest to Telegram. A manual process turned into a fully automated workflow.
+`n8n · OpenAI API · REST API · Telegram`
 
-**Frontend**  
-`Streamlit` `HTML/CSS`
+**[EA AI Assistant](https://github.com/Kater-code/ea-ai-assistant)** — bachelor thesis (in progress)
+Exploring an on-premise AI assistant for Enterprise Architects in regulated industries, built around one hard requirement: client data never leaves the company's infrastructure. Requirements gathering, solution design, and architecture defense.
+`RAG · ChromaDB · FastAPI · Mistral · Docker`
 
 ---
 
-### 📌 Projects
+### 🧩 What I do
 
-| Project | What it does | Stack |
-|---|---|---|
-| [ea-ai-assistant](https://github.com/Kater-code/ea-ai-assistant) | On-premise LLM assistant for Enterprise Architecture | Mistral 7B · RAG · FastAPI · Docker |
-| [botAI](https://github.com/Kater-code/botAI) | Telegram bot with GPT integration & subscription system | Python · SQLite · OpenAI API |
+**Business analysis**
+requirements gathering & specification · business process analysis · UML (use case, class, sequence) · stakeholder communication · turning business needs into technical tasks
+
+**AI & automation**
+RAG · LangChain · prompt engineering · OpenAI & Mistral APIs · n8n workflow automation · process automation
+
+**Technical**
+Python · SQL · FastAPI · REST API · Docker · Git
 
 ---
 
 ### 🌍 Languages
 
-Russian (native) · English (C1) · Czech (B2) · Chinese (A2)
+Russian (native) · English (C1) · Czech (B1, improving) · German (basic) · Chinese (A2)
 
 ---
 
 ### 📬 Contact
 
-sarychevaa.katerina@gmail.com
+📧 sarychevaa.katerina@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/ekaterina-sarycheva040029312)
+📍 Prague, Czech Republic
