@@ -48,5 +48,5 @@ Russian (native) · English (C1) · Czech (B1, improving) · German (basic) · C
 ### 📬 Contact
 
 📧 sarychevaa.katerina@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/ekaterina-sarycheva040029312)
+💼 [LinkedIn](www.linkedin.com/in/ekaterina-sarycheva)
 📍 Prague, Czech Republic
